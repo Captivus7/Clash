@@ -1,0 +1,11 @@
+# > Zlive
+payload:
+  - DOMAIN-SUFFIX,msstatic.com
+  - DOMAIN-SUFFIX,oneway.mobi
+  - DOMAIN-SUFFIX,douyucdn.cn
+  - DOMAIN-SUFFIX,douyucdn2.cn
+  - DOMAIN-SUFFIX,douyuscdn.com
+  - DOMAIN-SUFFIX,douyutv.com
+  - DOMAIN-KEYWORD,zlive
+  - DOMAIN-KEYWORD,douyu
+  - DOMAIN-KEYWORD,huya
