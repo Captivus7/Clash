@@ -1,13 +1,13 @@
-  # > Streaming
+# > Streaming
 payload:
-  - DOMAIN-SUFFIX.wtf
+  - DOMAIN-SUFFIX,Stream Media.wtf
   - DOMAIN-SUFFIX,plusmedia.site
   - DOMAIN-SUFFIX,mickeycloud.com
-  - DOMAIN-SUFFIX.mcwy.me
-  - DOMAIN-SUFFIX.neko.edu.rs
-  - DOMAIN-SUFFIX.ok.edu.hk
-  - DOMAIN-SUFFIX.maying.club
-  - DOMAIN-SUFFIX.nexitally.com
+  - DOMAIN-SUFFIX,Stream Media.mcwy.me
+  - DOMAIN-SUFFIX,Stream Media.neko.edu.rs
+  - DOMAIN-SUFFIX,Stream Media.ok.edu.hk
+  - DOMAIN-SUFFIX,Stream Media.maying.club
+  - DOMAIN-SUFFIX,Stream Media.nexitally.com
   - DOMAIN-SUFFIX,pub1.emby.wtf
   - DOMAIN-SUFFIX,pub1.emby.wtf
   - DOMAIN-SUFFIX,pub1back1.emby.wtf
@@ -72,34 +72,35 @@ payload:
   - DOMAIN-SUFFIX,pub3sgp.emby.wtf
   - DOMAIN-SUFFIX,pub3cf.emby.wtf
   - DOMAIN-SUFFIX,servers.xeton.dev
-  - DOMAIN-SUFFIX.plusmedia.site
-  - DOMAIN-SUFFIX-cf.plusmedia.site
+  - DOMAIN-SUFFIX,Stream Media.plusmedia.site
+  - DOMAIN-SUFFIX,Stream Media-cf.plusmedia.site
   - DOMAIN-SUFFIX,movie.xeton.dev
   - DOMAIN-SUFFIX,jellyfin.xeton.dev
-  - DOMAIN-SUFFIX.xeton.dev
-  - DOMAIN-SUFFIX.cjpc.cc
+  - DOMAIN-SUFFIX,Stream Media.xeton.dev
+  - DOMAIN-SUFFIX,Stream Media.cjpc.cc
   - DOMAIN-SUFFIX,cristiamo.xyz
   - IP-CIDR,161.97.148.156/24,no-resolve
+  # > Netflix
   - DOMAIN,api.fast.com
-  - DOMAIN.com.edgesuite.net
+  - DOMAIN,Stream Media.com.edgesuite.net
   - DOMAIN-SUFFIX,fast.com
-  - DOMAIN-SUFFIX.ca
-  - DOMAIN-SUFFIX.com
-  - DOMAIN-SUFFIX.com.edgesuite.net
-  - DOMAIN-SUFFIX.net
-  - DOMAIN-SUFFIXdnstest0.com
-  - DOMAIN-SUFFIXdnstest1.com
-  - DOMAIN-SUFFIXdnstest10.com
-  - DOMAIN-SUFFIXdnstest2.com
-  - DOMAIN-SUFFIXdnstest3.com
-  - DOMAIN-SUFFIXdnstest4.com
-  - DOMAIN-SUFFIXdnstest5.com
-  - DOMAIN-SUFFIXdnstest6.com
-  - DOMAIN-SUFFIXdnstest7.com
-  - DOMAIN-SUFFIXdnstest8.com
-  - DOMAIN-SUFFIXdnstest9.com
-  - DOMAIN-SUFFIXinvestor.com
-  - DOMAIN-SUFFIXtechblog.com
+  - DOMAIN-SUFFIX,Stream Media.ca
+  - DOMAIN-SUFFIX,Stream Media.com
+  - DOMAIN-SUFFIX,Stream Media.com.edgesuite.net
+  - DOMAIN-SUFFIX,Stream Media.net
+  - DOMAIN-SUFFIX,Stream Mediadnstest0.com
+  - DOMAIN-SUFFIX,Stream Mediadnstest1.com
+  - DOMAIN-SUFFIX,Stream Mediadnstest10.com
+  - DOMAIN-SUFFIX,Stream Mediadnstest2.com
+  - DOMAIN-SUFFIX,Stream Mediadnstest3.com
+  - DOMAIN-SUFFIX,Stream Mediadnstest4.com
+  - DOMAIN-SUFFIX,Stream Mediadnstest5.com
+  - DOMAIN-SUFFIX,Stream Mediadnstest6.com
+  - DOMAIN-SUFFIX,Stream Mediadnstest7.com
+  - DOMAIN-SUFFIX,Stream Mediadnstest8.com
+  - DOMAIN-SUFFIX,Stream Mediadnstest9.com
+  - DOMAIN-SUFFIX,Stream Mediainvestor.com
+  - DOMAIN-SUFFIX,Stream Mediatechblog.com
   - DOMAIN-SUFFIX,nflxext.com
   - DOMAIN-SUFFIX,nflximg.com
   - DOMAIN-SUFFIX,nflximg.net
@@ -111,8 +112,8 @@ payload:
   - DOMAIN-KEYWORD,dualstack.apiproxy-
   - DOMAIN-KEYWORD,dualstack.apiproxy-device-prod-nlb-
   - DOMAIN-KEYWORD,dualstack.ichnaea-web-
-  - DOMAIN-KEYWORD
-  - DOMAIN-KEYWORDdnstest
+  - DOMAIN-KEYWORD,Stream Media
+  - DOMAIN-KEYWORD,Stream Mediadnstest
   - IP-CIDR,103.87.204.0/22,no-resolve
   - IP-CIDR,108.175.32.0/20,no-resolve
   - IP-CIDR,185.2.220.0/22,no-resolve
@@ -175,6 +176,7 @@ payload:
   - IP-CIDR6,2a00:86c0::/32,no-resolve
   - IP-CIDR6,2a03:5640::/32,no-resolve
   - PROCESS-NAME,com.netflix.mediaclient
+  # > Disney
   - DOMAIN-SUFFIX,20thcenturystudios.com.au
   - DOMAIN-SUFFIX,20thcenturystudios.com.br
   - DOMAIN-SUFFIX,20thcenturystudios.jp
@@ -191,99 +193,99 @@ payload:
   - DOMAIN-SUFFIX,cdn.optimizely.com
   - DOMAIN-SUFFIX,conviva.com
   - DOMAIN-SUFFIX,d9.flashtalking.com
-  - DOMAIN-SUFFIX,dilcdn.com
-  - DOMAIN-SUFFIX,disney-asia.com
-  - DOMAIN-SUFFIX,disney-discount.com
-  - DOMAIN-SUFFIX,disney-plus.net
-  - DOMAIN-SUFFIX,disney-portal.my.onetrust.com
-  - DOMAIN-SUFFIX,disney-studio.com
-  - DOMAIN-SUFFIX,disney-studio.net
-  - DOMAIN-SUFFIX,disney.asia
-  - DOMAIN-SUFFIX,disney.be
-  - DOMAIN-SUFFIX,disney.bg
-  - DOMAIN-SUFFIX,disney.ca
-  - DOMAIN-SUFFIX,disney.ch
-  - DOMAIN-SUFFIX,disney.co.il
-  - DOMAIN-SUFFIX,disney.co.jp
-  - DOMAIN-SUFFIX,disney.co.kr
-  - DOMAIN-SUFFIX,disney.co.th
-  - DOMAIN-SUFFIX,disney.co.uk
-  - DOMAIN-SUFFIX,disney.co.za
-  - DOMAIN-SUFFIX,disney.com
-  - DOMAIN-SUFFIX,disney.com.au
-  - DOMAIN-SUFFIX,disney.com.br
-  - DOMAIN-SUFFIX,disney.com.hk
-  - DOMAIN-SUFFIX,disney.com.tw
-  - DOMAIN-SUFFIX,disney.cz
-  - DOMAIN-SUFFIX,disney.de
-  - DOMAIN-SUFFIX,disney.demdex.net
-  - DOMAIN-SUFFIX,disney.dk
-  - DOMAIN-SUFFIX,disney.es
-  - DOMAIN-SUFFIX,disney.fi
-  - DOMAIN-SUFFIX,disney.fr
-  - DOMAIN-SUFFIX,disney.gr
-  - DOMAIN-SUFFIX,disney.hu
-  - DOMAIN-SUFFIX,disney.id
-  - DOMAIN-SUFFIX,disney.in
-  - DOMAIN-SUFFIX,disney.io
-  - DOMAIN-SUFFIX,disney.it
-  - DOMAIN-SUFFIX,disney.my
-  - DOMAIN-SUFFIX,disney.my.sentry.io
-  - DOMAIN-SUFFIX,disney.nl
-  - DOMAIN-SUFFIX,disney.no
-  - DOMAIN-SUFFIX,disney.ph
-  - DOMAIN-SUFFIX,disney.pl
-  - DOMAIN-SUFFIX,disney.pt
-  - DOMAIN-SUFFIX,disney.ro
-  - DOMAIN-SUFFIX,disney.ru
-  - DOMAIN-SUFFIX,disney.se
-  - DOMAIN-SUFFIX,disney.sg
-  - DOMAIN-SUFFIX,disneyadsales.com
-  - DOMAIN-SUFFIX,disneyarena.com
-  - DOMAIN-SUFFIX,disneyaulani.com
-  - DOMAIN-SUFFIX,disneybaby.com
-  - DOMAIN-SUFFIX,disneycareers.com
-  - DOMAIN-SUFFIX,disneychannelonstage.com
-  - DOMAIN-SUFFIX,disneychannelroadtrip.com
-  - DOMAIN-SUFFIX,disneycruisebrasil.com
-  - DOMAIN-SUFFIX,disneyenconcert.com
-  - DOMAIN-SUFFIX,disneyiejobs.com
-  - DOMAIN-SUFFIX,disneyinflight.com
-  - DOMAIN-SUFFIX,disneyinternational.com
-  - DOMAIN-SUFFIX,disneyinternationalhd.com
-  - DOMAIN-SUFFIX,disneyjunior.com
-  - DOMAIN-SUFFIX,disneyjuniortreataday.com
-  - DOMAIN-SUFFIX,disneylatino.com
-  - DOMAIN-SUFFIX,disneymagicmoments.co.il
-  - DOMAIN-SUFFIX,disneymagicmoments.co.uk
-  - DOMAIN-SUFFIX,disneymagicmoments.co.za
-  - DOMAIN-SUFFIX,disneymagicmoments.de
-  - DOMAIN-SUFFIX,disneymagicmoments.es
-  - DOMAIN-SUFFIX,disneymagicmoments.fr
-  - DOMAIN-SUFFIX,disneymagicmoments.gen.tr
-  - DOMAIN-SUFFIX,disneymagicmoments.gr
-  - DOMAIN-SUFFIX,disneymagicmoments.it
-  - DOMAIN-SUFFIX,disneymagicmoments.pl
-  - DOMAIN-SUFFIX,disneymagicmomentsme.com
-  - DOMAIN-SUFFIX,disneyme.com
-  - DOMAIN-SUFFIX,disneymeetingsandevents.com
-  - DOMAIN-SUFFIX,disneymovieinsiders.com
-  - DOMAIN-SUFFIX,disneymusicpromotion.com
-  - DOMAIN-SUFFIX,disneynewseries.com
-  - DOMAIN-SUFFIX,disneynow.com
-  - DOMAIN-SUFFIX,disneypeoplesurveys.com
-  - DOMAIN-SUFFIX,disneyplus.bn5x.net
-  - DOMAIN-SUFFIX,disneyplus.com
-  - DOMAIN-SUFFIX,disneyplus.com.ssl.sc.omtrdc.net
-  - DOMAIN-SUFFIX,disneyredirects.com
-  - DOMAIN-SUFFIX,disneysrivieraresort.com
-  - DOMAIN-SUFFIX,disneystore.com
-  - DOMAIN-SUFFIX,disneystreaming.com
-  - DOMAIN-SUFFIX,disneysubscription.com
-  - DOMAIN-SUFFIX,disneytickets.co.uk
-  - DOMAIN-SUFFIX,disneyturkiye.com.tr
-  - DOMAIN-SUFFIX,disneytvajobs.com
-  - DOMAIN-SUFFIX,disneyworld-go.com
+  - DOMAIN-SUFFIX,dilcdn.com,Stream Media
+  - DOMAIN-SUFFIX,Stream Media-asia.com
+  - DOMAIN-SUFFIX,Stream Media-discount.com
+  - DOMAIN-SUFFIX,Stream Media-plus.net
+  - DOMAIN-SUFFIX,Stream Media-portal.my.onetrust.com
+  - DOMAIN-SUFFIX,Stream Media-studio.com
+  - DOMAIN-SUFFIX,Stream Media-studio.net
+  - DOMAIN-SUFFIX,Stream Media.asia
+  - DOMAIN-SUFFIX,Stream Media.be
+  - DOMAIN-SUFFIX,Stream Media.bg
+  - DOMAIN-SUFFIX,Stream Media.ca
+  - DOMAIN-SUFFIX,Stream Media.ch
+  - DOMAIN-SUFFIX,Stream Media.co.il
+  - DOMAIN-SUFFIX,Stream Media.co.jp
+  - DOMAIN-SUFFIX,Stream Media.co.kr
+  - DOMAIN-SUFFIX,Stream Media.co.th
+  - DOMAIN-SUFFIX,Stream Media.co.uk
+  - DOMAIN-SUFFIX,Stream Media.co.za
+  - DOMAIN-SUFFIX,Stream Media.com
+  - DOMAIN-SUFFIX,Stream Media.com.au
+  - DOMAIN-SUFFIX,Stream Media.com.br
+  - DOMAIN-SUFFIX,Stream Media.com.hk
+  - DOMAIN-SUFFIX,Stream Media.com.tw
+  - DOMAIN-SUFFIX,Stream Media.cz
+  - DOMAIN-SUFFIX,Stream Media.de
+  - DOMAIN-SUFFIX,Stream Media.demdex.net
+  - DOMAIN-SUFFIX,Stream Media.dk
+  - DOMAIN-SUFFIX,Stream Media.es
+  - DOMAIN-SUFFIX,Stream Media.fi
+  - DOMAIN-SUFFIX,Stream Media.fr
+  - DOMAIN-SUFFIX,Stream Media.gr
+  - DOMAIN-SUFFIX,Stream Media.hu
+  - DOMAIN-SUFFIX,Stream Media.id
+  - DOMAIN-SUFFIX,Stream Media.in
+  - DOMAIN-SUFFIX,Stream Media.io
+  - DOMAIN-SUFFIX,Stream Media.it
+  - DOMAIN-SUFFIX,Stream Media.my
+  - DOMAIN-SUFFIX,Stream Media.my.sentry.io
+  - DOMAIN-SUFFIX,Stream Media.nl
+  - DOMAIN-SUFFIX,Stream Media.no
+  - DOMAIN-SUFFIX,Stream Media.ph
+  - DOMAIN-SUFFIX,Stream Media.pl
+  - DOMAIN-SUFFIX,Stream Media.pt
+  - DOMAIN-SUFFIX,Stream Media.ro
+  - DOMAIN-SUFFIX,Stream Media.ru
+  - DOMAIN-SUFFIX,Stream Media.se
+  - DOMAIN-SUFFIX,Stream Media.sg
+  - DOMAIN-SUFFIX,Stream Mediaadsales.com
+  - DOMAIN-SUFFIX,Stream Mediaarena.com
+  - DOMAIN-SUFFIX,Stream Mediaaulani.com
+  - DOMAIN-SUFFIX,Stream Mediababy.com
+  - DOMAIN-SUFFIX,Stream Mediacareers.com
+  - DOMAIN-SUFFIX,Stream Mediachannelonstage.com
+  - DOMAIN-SUFFIX,Stream Mediachannelroadtrip.com
+  - DOMAIN-SUFFIX,Stream Mediacruisebrasil.com
+  - DOMAIN-SUFFIX,Stream Mediaenconcert.com
+  - DOMAIN-SUFFIX,Stream Mediaiejobs.com
+  - DOMAIN-SUFFIX,Stream Mediainflight.com
+  - DOMAIN-SUFFIX,Stream Mediainternational.com
+  - DOMAIN-SUFFIX,Stream Mediainternationalhd.com
+  - DOMAIN-SUFFIX,Stream Mediajunior.com
+  - DOMAIN-SUFFIX,Stream Mediajuniortreataday.com
+  - DOMAIN-SUFFIX,Stream Medialatino.com
+  - DOMAIN-SUFFIX,Stream Mediamagicmoments.co.il
+  - DOMAIN-SUFFIX,Stream Mediamagicmoments.co.uk
+  - DOMAIN-SUFFIX,Stream Mediamagicmoments.co.za
+  - DOMAIN-SUFFIX,Stream Mediamagicmoments.de
+  - DOMAIN-SUFFIX,Stream Mediamagicmoments.es
+  - DOMAIN-SUFFIX,Stream Mediamagicmoments.fr
+  - DOMAIN-SUFFIX,Stream Mediamagicmoments.gen.tr
+  - DOMAIN-SUFFIX,Stream Mediamagicmoments.gr
+  - DOMAIN-SUFFIX,Stream Mediamagicmoments.it
+  - DOMAIN-SUFFIX,Stream Mediamagicmoments.pl
+  - DOMAIN-SUFFIX,Stream Mediamagicmomentsme.com
+  - DOMAIN-SUFFIX,Stream Mediame.com
+  - DOMAIN-SUFFIX,Stream Mediameetingsandevents.com
+  - DOMAIN-SUFFIX,Stream Mediamovieinsiders.com
+  - DOMAIN-SUFFIX,Stream Mediamusicpromotion.com
+  - DOMAIN-SUFFIX,Stream Medianewseries.com
+  - DOMAIN-SUFFIX,Stream Medianow.com
+  - DOMAIN-SUFFIX,Stream Mediapeoplesurveys.com
+  - DOMAIN-SUFFIX,Stream Mediaplus.bn5x.net
+  - DOMAIN-SUFFIX,Stream Mediaplus.com
+  - DOMAIN-SUFFIX,Stream Mediaplus.com.ssl.sc.omtrdc.net
+  - DOMAIN-SUFFIX,Stream Mediaredirects.com
+  - DOMAIN-SUFFIX,Stream Mediasrivieraresort.com
+  - DOMAIN-SUFFIX,Stream Mediastore.com
+  - DOMAIN-SUFFIX,Stream Mediastreaming.com
+  - DOMAIN-SUFFIX,Stream Mediasubscription.com
+  - DOMAIN-SUFFIX,Stream Mediatickets.co.uk
+  - DOMAIN-SUFFIX,Stream Mediaturkiye.com.tr
+  - DOMAIN-SUFFIX,Stream Mediatvajobs.com
+  - DOMAIN-SUFFIX,Stream Mediaworld-go.com
   - DOMAIN-SUFFIX,dmed.technology
   - DOMAIN-SUFFIX,dssott.com
   - DOMAIN-SUFFIX,dtci.co
