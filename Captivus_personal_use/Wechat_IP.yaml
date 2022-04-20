@@ -1,5 +1,6 @@
 # NAME: Wechat
 payload:
+  - IP-CIDR,64.233.177.188/32,no-resolve
   - IP-CIDR,64.233.186.188/32,no-resolve
   - IP-CIDR,64.233.187.188/32,no-resolve
   - IP-CIDR,64.233.188.188/32,no-resolve
