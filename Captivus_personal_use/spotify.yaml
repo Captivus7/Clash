@@ -1,8 +1,8 @@
 # > Spotify
 payload:
-  - 'pscdn.co'
-  - 'scdn.co'
-  - 'spotify.com'
-  - 'spoti.fi'
-  - 'spotify.com'
-  - '-spotify-com'
+  - '+.pscdn.co'
+  - '+.scdn.co'
+  - '+.spotify.com'
+  - '+.spoti.fi'
+  - '+.spotify.com'
+  - '+.-spotify-com'
