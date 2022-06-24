@@ -1,6 +1,6 @@
 # Google
 payload:
-  -'adservice.google.com'
+  -'+.adservice.google.com'
   -'+.aboutfacebook.com'
   -'+.265.com'
   -'+.2mdn.net'
