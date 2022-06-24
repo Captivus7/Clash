@@ -545,4 +545,4 @@ payload:
   - 'zuckerberg.com'
   - 'zuckerberg.net'
   - 'graph.facebook.com'
-  - 'facebook'
+  - '.facebook'
