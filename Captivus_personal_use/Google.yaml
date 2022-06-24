@@ -1,4 +1,4 @@
-# Google
+# NAME:Google
 payload:
   - '+.265.com'
   - '+.2mdn.net'
@@ -95,7 +95,8 @@ payload:
   - '+.yt.be'
   - '+.ytimg.com'
   - '+.blogspot'
-  - '+.gmail'
+  - '+.gmail.com'
   - '+.google'
+  - '+.google.com'  
   - '+.gstatic'
   - '+.www.google'
