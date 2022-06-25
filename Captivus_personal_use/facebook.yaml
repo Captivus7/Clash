@@ -1,11 +1,11 @@
 # NAME: Facebook
 payload:
+  - '+.askfacebook.net'
   - '+.aboutfacebook.com'
   - '+.accessfacebookfromschool.com'
   - '+.acebooik.com'
   - '+.acebook.com'
   - '+.advancediddetection.com'
-  - '+.askfacebook.net'
   - '+.askfacebook.org'
   - '+.atdmt2.com'
   - '+.atlasdmt.com'
