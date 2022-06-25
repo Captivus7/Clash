@@ -1,5 +1,7 @@
-# > YouTube
 payload:
+  # > YouTube
+  - 'youtubei.googleapis.com'
+  - 'yt3.ggpht.com'
   - '+.googlevideo.com'
   - '+.withyoutube.com'
   - '+.youtu.be'
@@ -10,5 +12,3 @@ payload:
   - '+.youtube-nocookie.com'
   - '+.yt.be'
   - '+.ytimg.com'
-  - '+.youtubei.googleapis.com'
-  - '+.yt3.ggpht.com'
