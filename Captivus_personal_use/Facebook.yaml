@@ -1,3 +1,6 @@
+# NAME: Facebook
+payload:
+  - '+.china-facebook.com'
   - '+.aboutfacebook.com'
   - '+.accessfacebookfromschool.com'
   - '+.accountkit.com'
