@@ -1,0 +1,14 @@
+payload:
+  # > YouTube
+  - 'youtubei.googleapis.com'
+  - 'yt3.ggpht.com'
+  - '+.googlevideo.com'
+  - '+.withyoutube.com'
+  - '+.youtu.be'
+  - '+.youtube.com'
+  - '+.youtubeeducation.com'
+  - '+.youtubegaming.com'
+  - '+.youtubekids.com'
+  - '+.youtube-nocookie.com'
+  - '+.yt.be'
+  - '+.ytimg.com'
