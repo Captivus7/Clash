@@ -1,0 +1,12 @@
+payload:
+  # > bilibili Intl
+  - '+.biliapi.net'
+  - '+.bilibili.com'
+  - '+.bilivideo.com'
+  - '+.hdslb.com'
+  - '+.biliintl.com'
+  - 'apm-misaka.biliapi.net'
+  - 'p.bstarstatic.com'
+  - 'p-bstarstatic.akamaized.net'
+  - 'upos-bstar-mirrorakam.akamaized.net'
+  - 'upos-bstar1-mirrorakam.akamaized.net'
